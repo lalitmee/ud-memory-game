@@ -1,6 +1,6 @@
 # Memory Game Project
 
-Udacity Front End Nanodegree Project
+:clap: :sunglasses: Udacity Front End Nanodegree Project :sunglasses: :clap:
 
 ## Introduction
 
@@ -15,12 +15,12 @@ This project is about a memory game in which you have to guess the cards and mat
 
 ## Tips and Tricks
 
-There is only one and the most important tip for this game and that is:
+:sunglasses: There is only one and the most important tip for this game and that is:
 
 -   Try to remember the position of the cards.
 
 ## Benefits Of Playing
 
-This game will also tell you about your memory that how much it can remember.
+:muscle: This game will also tell you about your memory that how much it can remember. :muscle:
 
 <p style="text-align: center; font-weight: bold;">Thank you for playing the game</p>

@@ -203,6 +203,8 @@ function startTimer() {
 // @description congratulations when all cards match, show modal and moves, time and rating
 function congratulations() {
     if (matchedCard.length == 16) {
+        clearInterval(interval)
+        finalTime = timer.innerHTML;
 
         // show congratulations modal
         modal.classList.add("show");
